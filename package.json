@@ -10,6 +10,6 @@
         "coffee-script": "1.7.1"
         },
     "packageDependencies": {
-        "editor": "CodeboxIDE/package-editor"
+        "editor": "code-box/package-editor"
     }
 }
